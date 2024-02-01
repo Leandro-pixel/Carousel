@@ -1,6 +1,6 @@
 # (Carousel)
 
-This is a [Carousel](project link). 
+This is a [Carousel](https://leandro-pixel.github.io/Carousel/). 
 
 ## Table of contents
 
